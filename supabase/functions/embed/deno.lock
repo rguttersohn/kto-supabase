@@ -7,7 +7,8 @@
     "npm:@supabase/node-fetch@2.6.15": "2.6.15",
     "npm:@supabase/postgrest-js@1.19.4": "1.19.4",
     "npm:@supabase/realtime-js@2.11.2": "2.11.2",
-    "npm:@supabase/storage-js@2.7.1": "2.7.1"
+    "npm:@supabase/storage-js@2.7.1": "2.7.1",
+    "npm:@types/node@*": "22.12.0"
   },
   "jsr": {
     "@supabase/supabase-js@2.49.4": {
@@ -99,6 +100,7 @@
   },
   "remote": {
     "https://cdn.jsdelivr.net/npm/@xenova/transformers@2.5.0": "63c2071750f38fa8d433cee24ed8bbaa8a507f9ad85408b3452e2f9100c7c698",
+    "https://cdn.jsdelivr.net/npm/@xenova/transformers@2.5.4": "d2ea6b9e8593545aec7800d85f847ccca09d45cbdfd7f26b6f6179a6128e8ca1",
     "https://deno.land/std@0.168.0/async/abortable.ts": "80b2ac399f142cc528f95a037a7d0e653296352d95c681e284533765961de409",
     "https://deno.land/std@0.168.0/async/deadline.ts": "2c2deb53c7c28ca1dda7a3ad81e70508b1ebc25db52559de6b8636c9278fd41f",
     "https://deno.land/std@0.168.0/async/debounce.ts": "60301ffb37e730cd2d6f9dadfd0ecb2a38857681bd7aaf6b0a106b06e5210a98",
